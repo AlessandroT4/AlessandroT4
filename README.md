@@ -1,46 +1,45 @@
-# 👋 Ciao, sono Alessandro!
+# 👋 Hi, I'm Alessandro!
 
-Sono un aspirante **Data Analyst** con una forte passione per l'informatica, la statistica e l'analisi dei dati. Dopo essermi laureato in **Economia e Management** presso l'Università degli Studi della Tuscia, ho deciso di unire le mie competenze accademiche e pratiche per specializzarmi nel mondo dell'analisi dei dati e dell'intelligenza artificiale.
-
----
-
-## 👨‍💻 Chi sono
-- 🔎 **Background:** Ho esperienza nella gestione aziendale grazie al mio lavoro nella nostra azienda di famiglia, dove ho sviluppato abilità come gestione operativa, relazioni con fornitori e clienti e contabilità con strumenti come Excel.
-- 📊 **Specializzazioni:** Mi sono formato in strumenti come Python, SQL, R, Tableau e Power BI. Durante i miei studi ho acquisito conoscenze avanzate in statistica e organizzazione aziendale.
-- 🤖 **Interessi personali:** Oltre al lavoro, sono appassionato di tecnologia, giochi di strategia come gli scacchi e sono sempre incuriosito dai progressi dell'intelligenza artificiale.
+I'm an aspiring **Data Analyst** with a strong passion for computer science, statistics, and data analysis. After earning my degree in **Economics and Management** from the University of Tuscia, I decided to combine my academic and practical skills to specialize in the field of data analysis and artificial intelligence.
 
 ---
 
-## 🚀 Competenze principali
-- **Linguaggi di programmazione:** Python (analisi dei dati, pandas, numpy), R, SQL.
-- **Data visualization:** Tableau, Power BI, Spreadsheets.
-- **Analisi statistica:** Modelli descrittivi e predittivi.
-- **Gestione aziendale:** Conoscenze pratiche di contabilità, relazioni con fornitori e gestione operativa.
+## 👨‍💻 About Me
+- 🔎 **Background:** I gained valuable experience in business management by working in my family business, where I developed skills in operations management, supplier and customer relationships, and accounting using tools like Excel.
+- 📊 **Specializations:** I have hands-on experience with tools like Python, SQL, R, Tableau, and Power BI. During my studies, I also developed a solid foundation in statistics and business organization.
+- 🤖 **Personal Interests:** Beyond work, I'm passionate about technology, strategy games like chess, and exploring advancements in artificial intelligence.
 
 ---
 
-## 🌟 Progetti principali
-Ecco alcuni dei progetti a cui ho lavorato:
-- **Analisi delle vendite per un’azienda familiare:** Ho automatizzato i report delle vendite utilizzando Python e Excel, migliorando la visibilità dei dati chiave.
-- **Dashboard interattiva con Tableau:** Creazione di una dashboard per l'analisi delle performance aziendali.
-- **Progetto accademico:** Analisi di dataset economici per identificare tendenze e anomalie (utilizzando R e Tableau).
+## 🚀 Core Skills
+- **Programming Languages:** Python (data analysis, pandas, numpy), R, SQL.
+- **Data Visualization:** Tableau, Power BI, Spreadsheets.
+- **Statistical Analysis:** Descriptive and predictive modeling.
+- **Business Management:** Practical knowledge of accounting, supplier relationships, and operational management.
 
 ---
 
-## 🎓 Formazione e Certificazioni
-- **Laurea in Economia e Management** - Università degli Studi della Tuscia.
-- **Certificazione Google Data Analytics** - Focus su analisi e interpretazione dei dati.
+## 🌟 Key Projects
+Here are some of the projects I've worked on (feel free to add links to the repositories if you have them):
+- **Sales Analysis for a Family Business:** Automated sales reporting using Python and Excel, improving the visibility of key metrics.
+- **Interactive Dashboard with Tableau:** Designed a dashboard to analyze business performance and trends.
+- **Academic Project:** Performed data analysis on economic datasets to identify trends and anomalies (using R and Tableau).
 
 ---
 
-## 📫 Contatti
-💼 Linkedin: www.linkedin.com/in/alessandro-talia-ab8b3a223  
+## 🎓 Education & Certifications
+- **Bachelor's Degree in Economics and Management** - University of Tuscia.  
+- **Google Data Analytics Certification** - Focused on data analysis and interpretation.  
+
+---
+
+## 📫 Let's Connect
+💼 Linkedin: www.linkedin.com/in/alessandro-talia-ab8b3a223
 📧 Email: *alessandrotalia98@gmail.com*  
 
-
 ---
 
-Grazie per aver visitato il mio profilo! 🚀 Sono sempre aperto a collaborazioni e nuove opportunità nel mondo dell'analisi dei dati.
+Thank you for visiting my profile! 🚀 I'm always open to collaborations and new opportunities in the field of data analysis.
 
 
 <!---
