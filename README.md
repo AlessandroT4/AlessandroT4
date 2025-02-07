@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alessandro!
 
-I'm an aspiring **Data Analyst** with a strong passion for computer science, statistics, and data analysis. After earning my degree in **Economics and Management** from the University of Tuscia, I decided to combine my academic and practical skills to specialize in the field of data analysis and artificial intelligence.
+I'm an aspiring **Data Analyst** with a strong passion for computer science, statistics, and data analysis. After earning my degree in **Economics and Management** from the University of Tuscia, I decided to combine my academic and practical skills to specialize in the field of data analysis.
 
 ---
 
